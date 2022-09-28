@@ -39,14 +39,14 @@ References
 - `Structured Bayesian Pruning via Log-Normal Multiplicative Noise <https://proceedings.neurips.cc/paper/2017/file/dab49080d80c724aad5ebf158d63df41-Paper.pdf>`_
 - `Bayesian Compression for Deep Learning <http://papers.nips.cc/paper/6921-bayesian-compression-for-deep-learning.pdf>`_
 - `A Survey of Model Compression and Acceleration for Deep Neural Networks <https://arxiv.org/pdf/1710.09282.pdf>`_
-- ` <>`_
-- ` <>`_
-- ` <>`_
-- ` <>`_
-- ` <>`_
+- `ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression <https://arxiv.org/pdf/1707.06342.pdf>`_
 
 **2018**
 
+- ` <>`_
+- ` <>`_
+- ` <>`_
+- ` <>`_
 
 **2019**
 
