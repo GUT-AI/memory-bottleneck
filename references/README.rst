@@ -55,6 +55,8 @@ References
 
 - `The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks <https://arxiv.org/pdf/1803.03635.pdf>`_
 - `Stabilizing the Lottery Ticket Hypothesis <https://arxiv.org/pdf/1903.01611.pdf>`_
+- `Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask <https://arxiv.org/pdf/1905.01067.pdf>`_
+- `Weight Agnostic Neural Networks <https://arxiv.org/pdf/1906.04358.pdf>`_
 
 **2020**
 
