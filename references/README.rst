@@ -43,13 +43,15 @@ References
 
 **2018**
 
-- ` <>`_
-- ` <>`_
-- ` <>`_
-- ` <>`_
+- `Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights <https://arxiv.org/pdf/1801.06519.pdf>`_
+- `Recent Advances in Efficient Computation of Deep Convolutional Neural Networks <https://arxiv.org/pdf/1802.00939.pdf>`_
 
 **2019**
 
+- ` <>`_
+- ` <>`_
+- ` <>`_
+- ` <>`_
 
 **2020**
 
