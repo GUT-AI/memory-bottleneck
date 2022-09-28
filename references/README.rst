@@ -28,11 +28,13 @@ References
 - `XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks <https://arxiv.org/pdf/1603.05279.pdf>`_
 - `Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding <https://arxiv.org/pdf/1510.00149.pdf>`_
 - `EIE: Efficient Inference Engine on Compressed Deep Neural Network <https://arxiv.org/pdf/1602.01528.pdf>`_
-
+- `Dynamic Network Surgery for Efficient DNNs <https://arxiv.org/pdf/1608.04493.pdf>`_
+- `SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size <https://arxiv.org/pdf/1602.07360.pdf>`_
+- `Learning Structured Sparsity in Deep Neural Networks <https://arxiv.org/pdf/1608.03665.pdf>`_
 
 **2017**
 
--
+- 
 
 **2018**
 
