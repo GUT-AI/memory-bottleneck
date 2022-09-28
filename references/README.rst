@@ -55,13 +55,16 @@ References
 
 - `The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks <https://arxiv.org/pdf/1803.03635.pdf>`_
 - `Stabilizing the Lottery Ticket Hypothesis <https://arxiv.org/pdf/1903.01611.pdf>`_
-- ` <>`_
-- ` <>`_
 
 **2020**
 
+- `A Survey on Deep Neural Network Compression: Challenges, Overview, and Solutions <https://arxiv.org/pdf/2010.03954.pdf>`_
+- `An Overview of Neural Network Compression <https://arxiv.org/pdf/2006.03669.pdf>`_
 
 **2021**
+
+- ` <>`_
+- ` <>`_
 
 NAS
 ---
