@@ -34,7 +34,16 @@ References
 
 **2017**
 
-- 
+- `Soft Weight-Sharing for Neural Network Compression <https://arxiv.org/pdf/1702.04008.pdf>`_
+- `Variational Dropout Sparsifies Deep Neural Networks <https://arxiv.org/pdf/1701.05369>`_
+- ` <>`_
+- ` <>`_
+- ` <>`_
+- ` <>`_
+- ` <>`_
+- ` <>`_
+- ` <>`_
+- ` <>`_
 
 **2018**
 
