@@ -21,6 +21,7 @@ References
 
 - `Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations <https://arxiv.org/pdf/1609.07061.pdf>`_
 - `XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks <https://arxiv.org/pdf/1603.05279.pdf>`_
+- `Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding <https://arxiv.org/pdf/1510.00149.pdf>
 
 **2017**
 
