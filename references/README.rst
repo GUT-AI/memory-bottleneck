@@ -16,8 +16,7 @@ References
 
 **2013**
 
-- `Restructuring of Deep Neural Network Acoustic Models with Singular Value
-Decomposition <https://www.microsoft.com/en-us/research/wp-content/uploads/2013/01/svd_v2.pdf>`_
+- `Restructuring of Deep Neural Network Acoustic Models with Singular Value Decomposition <https://www.microsoft.com/en-us/research/wp-content/uploads/2013/01/svd_v2.pdf>`_
 
 **2015**
 
