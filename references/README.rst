@@ -13,6 +13,11 @@ References
 
 |
 
+Model Compression
+-----------------
+
+References
+^^^^^^^^^^
 
 **2013**
 
@@ -57,4 +62,12 @@ References
 
 
 **2021**
+
+NAS
+---
+
+References
+^^^^^^^^^^
+
+See `NAS <https://github.com/GUT-AI/nas/blob/master/references/README.rst>`_.
 
