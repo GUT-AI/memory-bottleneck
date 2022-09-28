@@ -7,9 +7,9 @@ References
 
 **Summary:** This a is non-exhaustive list of references for this component.
 
-|
+|The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
 
-.. contents:: **Table of Contents**
+https://arxiv.org/pdf/1803.03635.pdf.. contents:: **Table of Contents**
 
 |
 
@@ -53,8 +53,8 @@ References
 
 **2019**
 
-- ` <>`_
-- ` <>`_
+- `The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks <https://arxiv.org/pdf/1803.03635.pdf>`_
+- `Stabilizing the Lottery Ticket Hypothesis <https://arxiv.org/pdf/1903.01611.pdf>`_
 - ` <>`_
 - ` <>`_
 
