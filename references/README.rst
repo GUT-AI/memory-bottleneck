@@ -35,10 +35,10 @@ References
 **2017**
 
 - `Soft Weight-Sharing for Neural Network Compression <https://arxiv.org/pdf/1702.04008.pdf>`_
-- `Variational Dropout Sparsifies Deep Neural Networks <https://arxiv.org/pdf/1701.05369>`_
-- ` <>`_
-- ` <>`_
-- ` <>`_
+- `Variational Dropout Sparsifies Deep Neural Networks <https://arxiv.org/pdf/1701.05369.pdf>`_
+- `Structured Bayesian Pruning via Log-Normal Multiplicative Noise <https://proceedings.neurips.cc/paper/2017/file/dab49080d80c724aad5ebf158d63df41-Paper.pdf>`_
+- `Bayesian Compression for Deep Learning <http://papers.nips.cc/paper/6921-bayesian-compression-for-deep-learning.pdf>`_
+- `A Survey of Model Compression and Acceleration for Deep Neural Networks <https://arxiv.org/pdf/1710.09282.pdf>`_
 - ` <>`_
 - ` <>`_
 - ` <>`_
