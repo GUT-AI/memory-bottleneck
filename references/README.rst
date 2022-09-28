@@ -7,9 +7,9 @@ References
 
 **Summary:** This a is non-exhaustive list of references for this component.
 
-|The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
+|
 
-https://arxiv.org/pdf/1803.03635.pdf.. contents:: **Table of Contents**
+.. contents:: **Table of Contents**
 
 |
 
@@ -63,8 +63,8 @@ References
 
 **2021**
 
-- ` <>`_
-- ` <>`_
+- `Pruning and Quantization for Deep Neural Network Acceleration: A Survey <https://arxiv.org/pdf/2101.09671.pdf>`_
+- `Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better <https://arxiv.org/pdf/2106.08962.pdf>`_
 
 NAS
 ---
