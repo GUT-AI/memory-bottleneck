@@ -50,6 +50,7 @@ References
 
 - `Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights <https://arxiv.org/pdf/1801.06519.pdf>`_
 - `Recent Advances in Efficient Computation of Deep Convolutional Neural Networks <https://arxiv.org/pdf/1802.00939.pdf>`_
+- `Bayesian Compression for Natural Language Processing <https://arxiv.org/pdf/1810.10927.pdf>`_
 
 **2019**
 
@@ -57,6 +58,7 @@ References
 - `Stabilizing the Lottery Ticket Hypothesis <https://arxiv.org/pdf/1903.01611.pdf>`_
 - `Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask <https://arxiv.org/pdf/1905.01067.pdf>`_
 - `Weight Agnostic Neural Networks <https://arxiv.org/pdf/1906.04358.pdf>`_
+- `The State of Sparsity in Deep Neural Networks <https://arxiv.org/pdf/1902.09574.pdf>`_
 
 **2020**
 
