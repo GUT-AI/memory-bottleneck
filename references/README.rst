@@ -82,4 +82,9 @@ See `NAS <https://github.com/GUT-AI/nas/blob/master/references/README.rst>`_.
 Compressed Feature Extraction
 -----------------------------
 
--
+References
+^^^^^^^^^^
+
+**2021**
+
+- `NAS-BERT: Task-Agnostic and Adaptive-Size BERT Compression with Neural Architecture Search <https://arxiv.org/pdf/2105.14444.pdf>`_
