@@ -82,7 +82,7 @@ See `NAS <https://github.com/GUT-AI/nas/blob/master/references/README.rst>`_.
 Compressed Feature Extraction (i.e. Compression of Representation Learning Models)
 ----------------------------------------------------------------------------------
 
-Note: `Representation Learning Models (RLMs) <https://github.com/GUT-AI/gut-ai/blob/master/model_zoos/README.rst#representation-learning-models-rlms>`_ can be either pretrained or not, but training (or reuse) takes place during the *stage of Preprocessing*. RLMs can be in the NLP, Computer Vision or other domain.
+**Note:** `Representation Learning Models (RLMs) <https://github.com/GUT-AI/gut-ai/blob/master/model_zoos/README.rst#representation-learning-models-rlms>`_ can be either pretrained or not, but training (or reuse) takes place during the *stage of Preprocessing*. RLMs can be in the NLP, Computer Vision or other domain.
 
 See also `Awesome Efficient PLM Papers <https://github.com/TobiasLee/Awesome-Efficient-PLM>`_.
 
