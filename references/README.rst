@@ -82,6 +82,8 @@ See `NAS <https://github.com/GUT-AI/nas/blob/master/references/README.rst>`_.
 Compressed Feature Extraction (i.e. Compression of Representation Learning Models)
 ----------------------------------------------------------------------------------
 
+Representation Learning Models (RLE) can be either pretrained or not, but training (or reuse) takes place during the stage of Preprocessing.
+
 References
 ^^^^^^^^^^
 
