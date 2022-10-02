@@ -45,6 +45,7 @@ References
 - `Bayesian Compression for Deep Learning <http://papers.nips.cc/paper/6921-bayesian-compression-for-deep-learning.pdf>`_
 - `A Survey of Model Compression and Acceleration for Deep Neural Networks <https://arxiv.org/pdf/1710.09282.pdf>`_
 - `ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression <https://arxiv.org/pdf/1707.06342.pdf>`_
+- `To prune, or not to prune: exploring the efficacy of pruning for model compression <https://arxiv.org/pdf/1710.01878.pdf>`_
 
 **2018**
 
