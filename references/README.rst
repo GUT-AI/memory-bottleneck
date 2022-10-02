@@ -82,7 +82,7 @@ See `NAS <https://github.com/GUT-AI/nas/blob/master/references/README.rst>`_.
 Compressed Feature Extraction (i.e. Compression of Representation Learning Models)
 ----------------------------------------------------------------------------------
 
-Representation Learning Models (RLE) can be either pretrained or not, but training (or reuse) takes place during the stage of Preprocessing.
+Representation Learning Models (RLMs) can be either pretrained or not, but training (or reuse) takes place during the stage of Preprocessing.
 
 References
 ^^^^^^^^^^
@@ -91,3 +91,5 @@ References
 
 - `NAS-BERT: Task-Agnostic and Adaptive-Size BERT Compression with Neural Architecture Search <https://arxiv.org/pdf/2105.14444.pdf>`_
 - `Towards Efficient Post-training Quantization of Pre-trained Language Models <https://arxiv.org/pdf/2109.15082.pdf>`_
+- `Compression of Generative Pre-trained Language Models via Quantization <https://arxiv.org/pdf/2203.10705.pdf>`_
+- `Synergistic Self-supervised and Quantization Learning <https://arxiv.org/pdf/2207.05432.pdf>`_
