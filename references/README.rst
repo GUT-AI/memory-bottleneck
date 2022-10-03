@@ -101,3 +101,7 @@ References
 - `Towards Efficient Post-training Quantization of Pre-trained Language Models <https://arxiv.org/pdf/2109.15082.pdf>`_
 - `Compression of Generative Pre-trained Language Models via Quantization <https://arxiv.org/pdf/2203.10705.pdf>`_
 - `Synergistic Self-supervised and Quantization Learning <https://arxiv.org/pdf/2207.05432.pdf>`_
+
+**2022**
+
+- `ViTKD: Practical Guidelines for ViT feature knowledge distillation <https://arxiv.org/pdf/2209.02432.pdf>`_
