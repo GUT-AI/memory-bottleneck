@@ -90,6 +90,10 @@ See also `Awesome Efficient PLM Papers <https://github.com/TobiasLee/Awesome-Eff
 References
 ^^^^^^^^^^
 
+**2019**
+
+- `Patient Knowledge Distillation for BERT Model Compression <https://arxiv.org/pdf/1908.09355.pdf>`_
+
 **2021**
 
 - `NAS-BERT: Task-Agnostic and Adaptive-Size BERT Compression with Neural Architecture Search <https://arxiv.org/pdf/2105.14444.pdf>`_
