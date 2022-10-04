@@ -55,6 +55,7 @@ References
 - `Bayesian Compression for Natural Language Processing <https://arxiv.org/pdf/1810.10927.pdf>`_
 - `The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks <https://arxiv.org/pdf/1803.03635.pdf>`_
 - `Rethinking the Value of Network Pruning <https://arxiv.org/pdf/1810.05270.pdf>`_
+- `AMC: AutoML for Model Compression and Acceleration on Mobile Devices <https://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf>`_
 
 **2019**
 
