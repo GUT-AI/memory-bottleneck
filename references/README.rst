@@ -101,6 +101,7 @@ References
 - `Towards Efficient Post-training Quantization of Pre-trained Language Models <https://arxiv.org/pdf/2109.15082.pdf>`_
 - `Compression of Generative Pre-trained Language Models via Quantization <https://arxiv.org/pdf/2203.10705.pdf>`_
 - `Synergistic Self-supervised and Quantization Learning <https://arxiv.org/pdf/2207.05432.pdf>`_
+- `Compressing Large-Scale Transformer-Based Models: A Case Study on BERT <https://aclanthology.org/2021.tacl-1.63.pdf>`_
 
 **2022**
 
